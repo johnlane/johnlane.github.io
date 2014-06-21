@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Twisty Little Projects
+#tagline:          and other things...
+url:              http://projects.johnlane.ie
+paginate:         1
+paginate_path:    "blog/page:num"
+baseurl:          /
+author:
+  name:           John Lane
+  url:            https://johnlane.ie
+  email:          mail@johnlane.ie
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
+
+pages_list:
+  Home: '/'
+  News: '/blog'
+  Archive: '/archive'
+  Feed: '/atom.xml'
