@@ -56,4 +56,4 @@ Enhancements proposed to other open-source projects
 
 ###Contact
 
-To contact John, send email to `projects-at-jelmail-dot-com` or [@followjohnlane](https://twitter.com/followjohnlane) on Twitter.
+To contact John, send email or Jabber/XMPP to `john-at-lane-dot-uk-dot-net`. You can [@followjohnlane](https://twitter.com/followjohnlane) on Twitter.
