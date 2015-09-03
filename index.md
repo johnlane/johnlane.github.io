@@ -48,6 +48,8 @@ Some bugs raised
 
 Enhancements proposed to other open-source projects
 
+ * Enhancement to the X-Window Dump tool (xwd) to dump the root background [047216](http://lists.x.org/archives/xorg-devel/2015-August/047216.html)
+ * LUKS and dm-crypt extensions for Grub [2015-06/msg00109](https://lists.gnu.org/archive/html/grub-devel/2015-06/msg00109.html). See [grub-crypt](http://grub.johnlane.ie).
  * ABCDE should contain the album artist [16](https://code.google.com/p/abcde/issues/detail?id=16&can=1)
  * ABCDE album-art support [33](https://code.google.com/p/abcde/issues/detail?id=33)
  * ABCDE support for user selection of genre [85](https://code.google.com/p/abcde/issues/detail?id=85&can=1)
