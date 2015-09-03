@@ -17,6 +17,11 @@ title: Articles
   </thead>
   <tbody>
     <tr>
+      <td rowspan=1 style="text-align:center">October 2015<br>LV019<br><img src=https://subs.linuxvoice.com/wp-content/uploads/2015/08/Linux-Voice-Issue-019-HIGH-RES-212x300.png></td>
+      <td>Tutorial</td>
+      <td>Extend Grub with a Custom Module.<br><small>Is your favourite bootloader lacking that killer function you need? Here's how to add custom commands to Grub&hellip;</small></td>
+    </tr>
+    <tr>
       <td rowspan=3 style="text-align:center">May 2015<br>LV014<br><img src=https://subs.linuxvoice.com/wp-content/uploads/2015/03/cover14-212x300.png></td>
       <td>Masterclass</td>
       <td>See what's happening on your network.<br><small>Looking at the data flowing across your network can be an ethereal experience. You'll be surprised at what you can see when you start snooping&hellip;</small></td>
